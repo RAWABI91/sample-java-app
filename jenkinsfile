@@ -11,7 +11,7 @@ pipeline {
         AWS_EB_ENVIRONMENT = "Javawebapp-env-1"
     
         SONAR_IP = "54.226.50.200"
-        SONAR_TOKEN = "sqp_b6030baa701285e55eb33afc240fad72baf93962"
+        SONAR_TOKEN = "sqp_b58cad1999b33c2bcc2dfb904ff2ca9c9b8ebd71"
 
     }
 
